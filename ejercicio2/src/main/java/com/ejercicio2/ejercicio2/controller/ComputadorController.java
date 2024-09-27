@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ejercicio2.ejercicio2.models.Computador;
 import com.ejercicio2.ejercicio2.repositories.ComputadorRepo;
-import com.ejercicio2.ejercicio2.services.ComputadorService;
+// import com.ejercicio2.ejercicio2.services.ComputadorService;
 
 @RestController
 public class ComputadorController {
